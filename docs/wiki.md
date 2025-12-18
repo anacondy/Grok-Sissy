@@ -8,7 +8,7 @@ This page mirrors the key usage details so they are available alongside the sour
 3. Build for production: `npm run build`
 
 ## API Key Setup
-- Create an `VITE_XAI_API_KEY` secret in GitHub and map it in the deploy workflow environment.
+- Create a `VITE_XAI_API_KEY` secret in GitHub and map it in the deploy workflow environment.
 - For local testing, create a `.env` file with `VITE_XAI_API_KEY=<your key>`.
 
 ## Deployment
