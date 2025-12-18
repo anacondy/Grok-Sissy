@@ -1,1 +1,3 @@
-// Add a space to trigger workflow
+import App from '../App.jsx'
+
+export default App
