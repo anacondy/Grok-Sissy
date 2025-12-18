@@ -1,4 +1,4 @@
-# 👁️ Grok Sissy | Archival Database Protocol v2
+# 🐶 Grok Sissy | Archival Database Protocol v2
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://anacondy.github.io/Grok-Sissy)
 
