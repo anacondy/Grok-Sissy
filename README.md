@@ -103,4 +103,6 @@ Download pre-built binaries for your platform:
 Found a bug? Have a suggestion? Open an issue [here](https://github.com/anacondy/Grok-Sissy/issues)!
 
 ---
-Built with 🩵 for the **Archival Database Project**.
+Made with 💖 by [anacondy](https://github.com/anacondy) and [Le Chat](https://mistral.ai/)
+
+Built for the **Archival Database Project**.
