@@ -77,6 +77,13 @@ Grok Sissy/
 
 ---
 
+## 📜 Releases & Wiki
+- Live site: https://anacondy.github.io/Grok-Sissy/
+- Release notes (repo copy): [docs/release.md](docs/release.md)
+- Wiki snapshot (repo copy): [docs/wiki.md](docs/wiki.md)
+
+---
+
 ## 🛡️ Troubleshooting
 - **"Uplink Offline" / API Key Missing**:
   - Ensure `.env` is in the **root folder**. 
